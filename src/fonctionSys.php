@@ -121,10 +121,4 @@ function filtreNumTelephone ($numtel) {
     return $numtel; // retourne le résultat
 }
 
-Function FiltreBoiteVite {
-
-}
-
-
-
 ?>
